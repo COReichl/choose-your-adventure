@@ -1,4 +1,4 @@
-# The Entrance
+# The Lobby
 
 You step off the sidewalk into the bank’s marble foyer. The morning light spills across the polished floor. A brass plaque by the door reads First North Trust. You’re dressed to blend in — a plain jacket, a tote bag, a neutral face. 
 
