@@ -2,6 +2,6 @@
 
 You step into sunlight, heart racing.
 
-- [Stake out the bank from across the street](./scene6a.md) → 14
+- [Stake out the bank from across the street](./scene6a.md)
 
-- [Walk away for good] → END — Walk Away
+- [Walk away for good](./endingscene3d.md)

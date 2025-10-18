@@ -2,6 +2,6 @@
 
 You piece together staff habits — when guards change, when tellers swap.
 
-- [Plan a symbolic protest instead of a real crime] → 15
+- [Plan a symbolic protest instead of a real crime](./scene5g.md)
 
-- [Recruit an insider to help you] → 13
+- [Recruit an insider to help you](./scene5d.md)

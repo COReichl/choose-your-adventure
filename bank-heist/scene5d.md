@@ -2,6 +2,6 @@
 
 Your partner shows up, jittery. “You sure about this?”
 
-- [Proceed with your plan](./scene6a.md) → 14
+- [Proceed with your plan](./scene6a.md)
 
-- [Back out — you’re done] → END — Redemption
+- [Back out — you’re done](./endingscene3e.md)

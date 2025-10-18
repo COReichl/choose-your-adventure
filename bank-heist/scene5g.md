@@ -2,6 +2,6 @@
 
 You decide helping people — or telling the truth — matters more than the score.
 
-- [Confess to the manager and explain everything] → END — Forgiven
+- [Confess to the manager and explain everything](./endingscene3h.md)
 
-- [Leave quietly, determined to start over] → END — New Beginning
+- [Leave quietly, determined to start over](./endingscene3i.md)

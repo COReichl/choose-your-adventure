@@ -2,6 +2,6 @@
 
 You return disguised as the “courier.”
 
-- [The plan works — but what you find isn’t money, it’s an old family keepsake] → END — Closure
+- [The plan works — but what you find isn’t money, it’s an old family keepsake](./endingscene3f.md) 
 
-- [The real courier walks in — you’re caught] → END — Arrest
+- [The real courier walks in — you’re caught](./endingscene3g.md) 
