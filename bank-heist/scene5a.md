@@ -1,6 +1,6 @@
-# you open the vault door with the device
+# You try to open the vault door
 
-it works but the device fizzles out hooray
+You carefully approach the vault door, keeping a lookout for any cameras. Upon reaching it, you hold up the lock bypass device, unsure if it will work. Luckily, it lights up, zaps the door, and you hear the locks turning inside. Your crew walks into the vault.
 
 Where do you go?
 
